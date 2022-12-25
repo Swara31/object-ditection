@@ -1,0 +1,74 @@
+body
+{
+ background-size: cover;
+ background-position: center;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+font-family: cursive;
+color: rgb(243, 235, 188);
+}
+
+#b1
+{
+    width: 35%;
+    border-radius: 15px;
+    background-color: bisque;
+    font-family: sans-serif;
+    font-style: italic;
+    height: 30px;
+    font-size: 20px;
+    border-color: bisque;
+}
+
+#b2
+{
+    width: 35%;
+    border-radius: 15px;
+    background-color: bisque;
+    font-family: sans-serif;
+    font-style: italic;
+    height: 30px;
+    font-size: 20px;
+    border-color: bisque;
+}
+
+#b3
+{
+    width: 35%;
+    border-radius: 15px;
+    background-color: bisque;
+    font-family: sans-serif;
+    font-style: italic;
+    height: 30px;
+    font-size: 20px;
+    border-color: bisque;
+}
+
+#b4
+{
+    width: 35%;
+    border-radius: 15px;
+    background-color: bisque;
+    font-family: sans-serif;
+    font-style: italic;
+    height: 30px;
+    font-size: 20px;
+    border-color: bisque;
+}
+
+#b5
+{
+    width: 35%;
+    border-radius: 15px;
+    background-color: bisque;
+    font-family: sans-serif;
+    font-style: italic;
+    height: 30px;
+    font-size: 20px;
+    border-color: bisque;
+}
